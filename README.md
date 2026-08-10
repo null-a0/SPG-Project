@@ -32,3 +32,5 @@ Development of the Decision-Making Advantage Framework (DMAF):
 - Education
 - Public Administration
 - Civil Engineering
+
+# Presentation link: https://www.youtube.com/live/qfgMg2usQm0?si=M_fzj_3ZbUyIyhat
